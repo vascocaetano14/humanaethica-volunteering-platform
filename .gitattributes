@@ -1,0 +1,3 @@
+# Keep GitHub language stats on the real code (Java/Vue), not on SQL data dumps
+data/** linguist-vendored
+*.sql linguist-vendored
